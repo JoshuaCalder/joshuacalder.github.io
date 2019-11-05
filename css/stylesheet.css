@@ -54,6 +54,14 @@ h2 {
 	color: #333;
 }
 
+.social-links {
+	padding: 24px 50px;
+}
+
+.social-links a {
+	opacity: .6;
+}
+
 .header {
 	display: flex;
 	align-items:center;
@@ -74,5 +82,5 @@ h2 {
 .bio {
 	clear: both;
 	font-size: 24px;
-	padding: 50px;
+	padding: 24px 50px;
 }
